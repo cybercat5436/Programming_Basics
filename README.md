@@ -1,7 +1,7 @@
-# 5436 Cybercats Programming Resources
+# 5436 Cyber Cats Programming Resources
 <img width="348" alt="GrumpyCatProgrammer1" src="https://github.com/cybercat5436/Programming_Basics/assets/16657483/68d11a60-4c24-4360-966d-dcea1c77e77b">
 
-## This document provides an overview of essential __software tools__, __programming concepts__, and __control systems__ utilized by the Cybercats programming team
+## This document provides an overview of essential __software tools__, __programming concepts__, and __control systems__ utilized by the Cyber Cats programming team
 
 New students should complete the self guided tutorials in sections 1-2 prior to the start of the season
 Returning students should expand their knowledge with advanced tutorials in either control systems or programming concepts.
