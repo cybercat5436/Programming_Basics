@@ -32,7 +32,16 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. Scheduler
     1. Autonomous
     1. Path Weaver
-    1. Log Files 
+    1. Log Files
+    1. Network Tables
+    1. Driver Station
+1. Hardware
+    1. CAN Setup
+    1. Radio Programming
+    1. Firmware Updates
+        * Phoenix Tuner
+        * REV Hardware Client
+        * RoboRIO 
 1. Control systems
     1. PID Controllers
     1. State Machine
