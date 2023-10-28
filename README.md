@@ -1,5 +1,6 @@
 # FRC Introduction
 ## programming basics
+## Software Installation Guide[Installation guide](https://cybercat5436.github.io/Programming_Basics/Software-Installation)
 ### Learning Goals
 * Basic Tools
      * Git
