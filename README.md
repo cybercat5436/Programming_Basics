@@ -19,7 +19,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
         * Data Types
     1. Lesson 2
         * Classes
-        * Data Structures(Arrays, Arraylist)
+        * [Data Structures(Arrays, Arraylist)](https://cybercat5436.github.io/Data-Structures)
         * Inheritance
 1. Advanced Java
     1. Interfaces
