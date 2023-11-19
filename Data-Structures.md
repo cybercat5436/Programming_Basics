@@ -78,4 +78,10 @@ for (String i : cars) {
   System.out.println(i);
 }
 ```
+## Additional Reference
+Here's a [video overview of arrays](https://www.youtube.com/watch?v=_Wf2rbL9wQU)
+
+
+## Exercise
+Now try it for yourself by completing [Arrays Exercise](https://docs.google.com/document/d/15Ps4BnD-urjVZorI1oveLwgEDByxW3ieHfgH0O0T7c8/edit#heading=h.jke94wk0hf44)
 
