@@ -20,8 +20,8 @@ Returning students should expand their knowledge with advanced tutorials in eith
     2. [Lesson 2](https://cybercat5436.github.io/Programming_Basics/Data-Structures)
         * Classes
         * Data Structures(Arrays, Arraylist)
-        * Inheritance
 1. Advanced Java
+    1. Inheritance
     1. Interfaces
     1. Functional Interfaces
     1. Stream
