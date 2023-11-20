@@ -5,5 +5,6 @@
   * [WPILib Install (VS Code)](https://github.com/wpilibsuite/allwpilib/releases/tag/v2023.4.3)
     - Install 2023.4.3 version
     - Scroll down to "Assets" section and select the correct file (Windows or Mac)
+    - Once the file is downloaded, double-click and install using recommended install settings
 
 
