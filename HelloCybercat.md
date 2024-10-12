@@ -1,4 +1,5 @@
-The best way to familiarize yourself with WPILib is to simulate the robot code on your own computer.  Like we demonstrated during Thursday's session, I encourage you to perform the "Hello World" challenge on your own.  Here's the challenge:
+The best way to familiarize yourself with WPILib is to simulate the robot code on your own computer.  
+As an introductory challenge, complete this "Hello World" exercise:
 
 1) After installing WPILib, create a new project by following [these instructions](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java-python.html)
 
