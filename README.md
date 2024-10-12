@@ -21,7 +21,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
         * Classes
         * Data Structures(Arrays, Arraylist)
 1. Challenges
-    1. "Hello Cybercat"
+    1. [Hello Cybercat](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat.md)
 1. Advanced Java
     1. Inheritance
     1. Interfaces
