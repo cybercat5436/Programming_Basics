@@ -30,7 +30,8 @@ Within WPILib, there is a Command Scheduler that orchestrates when actions are p
   
 
 ### Run Simulation
-1) Simulate the robot code and observe the print statements 
+1) Simulate the robot code and observe the print statements
+   <br> <img width="500" alt="Output Subsystem" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/sub_out.png"><br>
 
 Reference:
 [docs](https://docs.wpilib.org/en/stable/docs/software/commandbased/subsystems.html)
