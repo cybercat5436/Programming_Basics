@@ -28,7 +28,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
 1. WPILib
     1. [Simulation](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat.md)
     1. Dashboards
-    1. [Subsystems] (https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems.md)
+    1. [Subsystems](https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems.md)
     1. Commands 
     1. Scheduler
     1. Autonomous
