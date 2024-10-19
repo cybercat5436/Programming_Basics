@@ -26,7 +26,8 @@ Within WPILib, there is a Command Scheduler that orchestrates when actions are p
 1) Create an instance variable for the new subsystem.  Note, you need to import the subsystem, hover over the class name and from the Quick Fix... menu select "Import {classname}"
   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/rc1.png"><br>
 1) In the constructor of RobotContainer, instantiate the Subsystem
-   ![Instantiation in constructor](https://github.com/cybercat5436/Programming_Basics/blob/main/assets/rc2.png)
+   <br> <img width="500" alt="Instantiation in constructor" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/rc2.png"><br>
+  
 
 ### Run Simulation
 1) Simulate the robot code and observe the print statements 
