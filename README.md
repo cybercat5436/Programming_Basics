@@ -42,7 +42,8 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. Firmware Updates
         * Phoenix Tuner
         * REV Hardware Client
-        * RoboRIO 
+        * RoboRIO
+        * Limelight 
 1. Control systems
     1. PID Controllers
     1. State Machine
