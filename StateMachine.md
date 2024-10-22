@@ -11,8 +11,8 @@ In essence, a state is a mode of operation, similar to human activities like eat
 These actions continue until an event occurs.  In response to those events the robot may perform a series of transitional actions and then enter a new state.  For instance, you eat until you’re full (the event), so you leave the table (transitional action) before washing the dishes (next state).
 
 *Template of State Diagram*
-https://github.com/cybercat5436/Programming_Basics/blob/main/assets/state_diagram.png
-<img src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/state_diagram.png"> </img>
+
+<img width="500px" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/state_diagram.png"> </img>
 
 ## Apply the concepts
 
