@@ -42,7 +42,12 @@ Returning students should expand their knowledge with advanced tutorials in eith
         * Phoenix Tuner
         * REV Hardware Client
         * RoboRIO
-        * Limelight 
+        * Limelight
+    1. Calibration
+        * Swerve Drive Kinematics
+        * Swerve drive turning motors / Cancoders
+        * Limelights
+        * Pigeon
 1. Control systems
     1. [PID Controllers](https://docs.google.com/document/d/1q2Fe3-mitXjtr-owq9-SB_0mqVCDGcikXRXlNKKP700/edit?usp=drive_link)
        - [Example](https://docs.google.com/presentation/d/1DCwFPjsVy91znihLSHr5BNxie84MPP8H/edit?usp=drive_link&ouid=103075082841613250737&rtpof=true&sd=true)
