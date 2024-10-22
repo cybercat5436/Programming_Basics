@@ -27,15 +27,14 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. Stream
 1. WPILib
     1. [Simulation](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat.md)
-    1. Dashboards
+    1. [Dashboards & Network Tables](https://docs.google.com/document/d/1RQRigpYUv2hz-S0XogmwiDdY_5hcvlr2qt4yBovZcQ4/edit?usp=drive_link)
     1. [Subsystems](https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems.md)
     1. Commands 
-    1. Scheduler
+       - Scheduler
     1. Autonomous
-    1. Path Weaver
+       - Path Planner
     1. Log Files
-    1. Network Tables
-    1. Driver Station
+    1. [Driver Station](https://docs.google.com/document/d/1QsjKEIqtqi3R2IFkR1SOEOd4ogh1tthBB1dnlaWx4Yo/edit?usp=drive_link)
 1. Hardware
     1. CAN Setup
     1. Radio Programming
@@ -45,7 +44,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
         * RoboRIO
         * Limelight 
 1. Control systems
-    1. PID Controllers
+    1. [PID Controllers](https://docs.google.com/document/d/1q2Fe3-mitXjtr-owq9-SB_0mqVCDGcikXRXlNKKP700/edit?usp=drive_link)
     1. State Machine
     1. Vision
     1. Power Management
