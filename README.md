@@ -45,6 +45,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
         * Limelight 
 1. Control systems
     1. [PID Controllers](https://docs.google.com/document/d/1q2Fe3-mitXjtr-owq9-SB_0mqVCDGcikXRXlNKKP700/edit?usp=drive_link)
+       - [Example](https://docs.google.com/presentation/d/1DCwFPjsVy91znihLSHr5BNxie84MPP8H/edit?usp=drive_link&ouid=103075082841613250737&rtpof=true&sd=true)
     1. State Machine
     1. Vision
     1. Power Management
