@@ -18,5 +18,5 @@ Commands control the subsystems
    * The addRequirements method plays a crucial role in managing resource usage and ensuring safe access to subsystems.
    * addRequirements(), is typically called in the consructor of the command.
 
-<br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/commands_2.png"><br>
+   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/commands_2.png"><br>
 
