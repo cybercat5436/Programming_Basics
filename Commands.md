@@ -25,13 +25,13 @@ Commands can range from simple actions, like moving a motor for a set time, to c
 * Wait command
 * SwerveControllerCommand
 * PIDCommand
-  [Types of Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html#included-command-types)
+  <br>[Types of Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html#included-command-types)<br>
 
 ## Command composition
 Ability to chain multiple commnads to accomplish complex tasks, allowing modularity and reusabality of the code.
 * Sequential commands
 * Parallel commands
-  [Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)
+  <br>[Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)<br>
 
 
 
