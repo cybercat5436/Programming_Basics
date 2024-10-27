@@ -38,7 +38,7 @@ Ability to chain multiple commnads to accomplish complex tasks, allowing modular
 ## Exercise
 ### Create the Command Class
 **Pre Requisite**
-The following exercise must be completed, before attempting this.
+<br>The following exercise must be completed, before attempting this.<br>
 [ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
 1) Open project from Simulation section
 2) Right-click on subsystems directory and select "Create a new class/commnad"
