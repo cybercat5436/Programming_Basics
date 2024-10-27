@@ -16,6 +16,7 @@ Commands can range from simple actions, like moving a motor for a set time, to c
 * Ensures safe execution of the subsytems.
 * Commands prioritization.
 * Handling the command interruption.
+<br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/scheduler.png"><br>
 
 [command scheduler](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-scheduler.html)
 
