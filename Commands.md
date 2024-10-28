@@ -62,11 +62,11 @@ Choose the 'Teleoperated' option in the GUI
 Observe the print statements
 <br> <img width="500" alt="Simulation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/simulation.png"><br>
 ### References
-[Commands in detail](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html)
-<br>[command scheduler](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-scheduler.html)
-<br>[Types of Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html#included-command-types)
-<br>[setter and getter in java](https://www.codejava.net/coding/java-getter-and-setter-tutorial-from-basics-to-best-practices)
-<br>[Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)<br>
+* [Commands in detail](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html)
+* [command scheduler](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-scheduler.html)
+* [Types of Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html#included-command-types)
+* [setter and getter in java](https://www.codejava.net/coding/java-getter-and-setter-tutorial-from-basics-to-best-practices)
+* [Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)<br>
 
 
 
