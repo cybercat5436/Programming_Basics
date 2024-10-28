@@ -34,13 +34,17 @@ Ability to chain multiple commnads to accomplish complex tasks, allowing modular
   <br>[Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)<br>
 
 
-
-
 ## Exercise
-### Create the Command Class
-**Pre Requisite**
-<br>The following exercise must be completed, before attempting this.<br>
-[ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
+### Create a Command Class to control the position of the Arm
+### Part 1 **Adding position element to already defined Arm subsystem** [ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
+1) Add a position instance variable to the subsystem(arm).
+   <br> <img width="500" alt="Arm Position" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/arm-pos.png"><br>
+   
+2) Add a member functions(setter and getter functions) to set and get the position of the arm.
+   [setter and getter in java](https://www.codejava.net/coding/java-getter-and-setter-tutorial-from-basics-to-best-practices)
+   
+   <br> <img width="500" alt="Arm Position Set Get" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/arm=set-get.png"><br>
+### Part 2 **Define a Command class**
 1) Open project from Simulation section
 2) Right-click on subsystems directory and select "Create a new class/commnad"
    <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/1.png"><br> 
@@ -54,4 +58,25 @@ Ability to chain multiple commnads to accomplish complex tasks, allowing modular
    * addRequirements(), is typically called in the consructor of the command.
 
    <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/commands_2.png"><br>
+5) Set the postion of the arm in the execute() and access the postion variable using getPostion().
+
+   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/command-set-pos.png"><br>
+   
+   
+### Part 3 **Binding the command**
+Typically in command-based-programming, commands are essentially bound to controller or joystick
+**defining a subsytem -> creating a command -> binding to controller input**
+
+In this Example, for simulation purposes 'Default' command is set on arm subsystem.
+
+**Default commands**: are commands that run continuously for a given subsystem unless interrupted by another command.
+Default commands are typically set within the subsystem itself, allowing for automatic and appropriate behavior without explicit scheduling in the robot code.
+Use cases: Drive train
+
+1) Add Arm subsysytem instance variable in 'RobotContainer'.
+2) Instantiate the subsystem, and set 'Default' command on Arm subsystem in the constructor.
+<br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/rc-arm-default-command.png"><br>
+
+**Output**
+
 
