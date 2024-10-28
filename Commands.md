@@ -18,25 +18,21 @@ Commands can range from simple actions, like moving a motor for a set time, to c
 * Commands prioritization.
 * Handling the command interruption.
 <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/scheduler.png"><br>
-
 [command scheduler](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-scheduler.html)
 
 ## Types of Commands
 * Instant Command
 * Wait command
 * SwerveControllerCommand
-* PIDCommand
-  
+* PIDCommand  
   <br>[Types of Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html#included-command-types)<br>
 
 ## Command composition
 Ability to chain multiple commnads to accomplish complex tasks, allowing modularity and reusabality of the code.
 * Sequential commands
-* Parallel commands
-  
+* Parallel commands  
   <br>[Command Composition](https://docs.wpilib.org/en/stable/docs/software/commandbased/command-compositions.html)<br>
-
-
+  
 ## Exercise: Create a Command Class to control the position of the Arm
 #### Define a subsytem [ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
 1) Add a position instance variable to the subsystem(arm).
@@ -50,8 +46,7 @@ Ability to chain multiple commnads to accomplish complex tasks, allowing modular
 #### Create a Command class
 1) Open project from Simulation section
 2) Right-click on subsystems directory and select "Create a new class/commnad"
-   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/1.png"><br>
-   
+   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/1.png"><br>  
 3) Select Command from the menu and type in a name for the command (e.g. "ArmPrint") and press enter 
 4) Create an instance of subsytem(Use the same subsystem(e.g. Arm)[ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md),
    and add it to the command using addRequirements()
@@ -60,13 +55,9 @@ Ability to chain multiple commnads to accomplish complex tasks, allowing modular
    * Command can access multiple subsystems, but only one command can be active at the given time.
    * The addRequirements method plays a crucial role in managing resource usage and ensuring safe access to subsystems.
    * addRequirements(), is typically called in the consructor of the command.
-
-   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/commands_2.png"><br>
-   
+   <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/commands_2.png"><br>   
 5) Set the postion of the arm in the execute() and access the postion variable using getPostion().
-
    <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/command-set-pos.png"><br>
-   
    
 #### Bind the command
 Typically in command-based-programming, commands are essentially bound to controller or joystick
@@ -85,9 +76,9 @@ Use cases: Drive train
 #### Simulate
 Simulate the robot code
 Choose the 'Teleoperated' option in the GUI
-<br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/simualition-GUI.png"><br>
+<br> <img width="500" alt="Simulation-GUI" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/simualtion-GUI.png"><br>
 Observe the print statements
-<br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/simulation.png"><br>
+<br> <img width="500" alt="Simulation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/simulation.png"><br>
 
 
 
