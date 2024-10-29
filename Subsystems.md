@@ -20,7 +20,7 @@ Within WPILib, there is a Command Scheduler that orchestrates when actions are p
 1) Right-click on subsystems directory and select "Create a new class/commnad"
 1) Select Subsystem from the menu and type in a name for the subsystem (e.g. "Arm") and press enter
 1) Add a print statement to the periodic method
-   (sub1 screenshot)
+   <br> <img width="500" alt="Instantiation in constructor" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/sub1.png"><br>
 
 ### Instantiate the Subsystem
 1) Create an instance variable for the new subsystem.  Note, you need to import the subsystem, hover over the class name and from the Quick Fix... menu select "Import {classname}"
