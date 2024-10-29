@@ -29,7 +29,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. [Simulation](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat.md)
     1. [Dashboards & Network Tables](https://docs.google.com/document/d/1RQRigpYUv2hz-S0XogmwiDdY_5hcvlr2qt4yBovZcQ4/edit?usp=drive_link)
     1. [Subsystems](https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems.md)
-    1. Commands 
+    1. [Commands](https://github.com/cybercat5436/Programming_Basics/blob/main/Commands.md)
        - Scheduler
     1. Autonomous
        - Path Planner
