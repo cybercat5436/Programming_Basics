@@ -1,24 +1,29 @@
 # Commands
-A **command** is an encapsulation/behaviour of the action that the robot can perform.
-Commands are apowerful way to structure the robots behaviour.
-Commands can range from simple actions, like moving a motor for a set time, to complex sequences involving multiple subsystems.
-## States of a Command
+# Commands
+A **command** represents an action that the robot can perform.
+- Commands are a powerful way to structure the robots behaviour.
+- Commands can range from simple actions, like moving a motor for a set time, to complex sequences involving multiple subsystems.
+- Commands are an implementation of [State Machine](https://github.com/cybercat5436/Programming_Basics/blob/main/StateMachine.md) architecture 
+## Methods of a Command
 * initialize: called when first scheduled, This is where you can set up any necessary parameters or states.
 * execute: runs repeatedly, main logic of the command occurs, such as controlling motors or sensors.
-* end: Typically called when the command is finished, clean up actions.
 * isFinished: exit conditions check, to check whether the command has completed the task, if 'true' command is removed from the scheduler.
+* end: Typically called when the command is finished, clean up actions.
+
 ## Command Scheduler
 * Manages the execution of the commands, life cycle of the commands(initialize, execute, end).
-* Resource allocation.
-* Ensures safe execution of the subsytems.
-* Commands prioritization.
-* Handling the command interruption.
+* Resource allocation - Only allows 1 running command per subsystem
+* Ensures safe execution of the subsytems - by default, commands can't execute unless robot is active
+* Commands prioritization - Commands can be **interrupted** if a higher priority command is scheduled
+
 <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/scheduler.png"><br>
+
 ## Types of Commands
 * Instant Command
 * Wait command
 * SwerveControllerCommand
 * PIDCommand  
+
 ## Command composition
 Ability to chain multiple commnads to accomplish complex tasks, allowing modularity and reusabality of the code.
 * Sequential commands
