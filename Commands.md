@@ -28,7 +28,17 @@ A **command** represents an action that the robot can perform.
 Ability to chain multiple commnads to accomplish complex tasks, allowing modularity and reusabality of the code.
 * Sequential commands
 * Parallel commands  
-   
+
+## Types of Commands
+WPILib contains various types of Commands to achieve specific functionality. There are also helpful shortcuts available for implementing common tasks.  Heres a shortlist of Command types that are used frequently in Cyber Cat code base:
+* Instant Command
+* Wait command
+* Sequential commands
+* Parallel commands 
+
+After you complete the following exercise, check out the refernece material at the end of this document to explore these Command types. 
+
+
 ## Exercise: Create a Command Class to control the position of the Arm
 ### Define a subsytem [ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
 1) Add a position instance variable to the subsystem(arm).
