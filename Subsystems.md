@@ -12,7 +12,9 @@ In programing, subsystems serve as abstractions to encapsulate system informatio
 - Physical limitations & tunings (e.g. speeds, PID constants, target positions)
 - Dashboard info and controls
 
-Within WPILib, there is a Command Scheduler that orchestrates when actions are performed by the subsystems.  In order 
+Within WPILib, there is a Command Scheduler that orchestrates when actions are performed by the subsystems.  Commands will be covered in a separate section. 
+
+Create a subsysyem by following these steps: 
 
 ## Exercise
 ### Create the Subsystem Class
