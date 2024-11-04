@@ -7,12 +7,9 @@ Watch these videos for good background info as well as how it can be executed in
 
 [Part 2](https://youtu.be/-J_m-FdO45c)
 
-[Part 3](https://youtu.be/cPgJ8bbBj_o)
-
-
 In essence, a state is a mode of operation, similar to human activities like eating.  The robot will be assigned a state, and while in that state it will perform certain actions.  Like when you eat, you put food in your mouth, chew, swallow, repeat.
 
-These actions continue until an event occurs.  In response to those events the robot may perform a series of transitional actions and then enter a new state.  For instance, you eat until you’re full (the event), so you leave the table (transitional action) before washing the dishes (next state).
+These actions continue until an event occurs.  In response to the event the robot may perform a series of transitional actions and then enter a new state.  For instance, you eat until you’re full (the event), so you leave the table (transitional action) before washing the dishes (next state).
 
 *Template of State Diagram*
 
