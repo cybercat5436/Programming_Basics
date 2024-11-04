@@ -1,5 +1,6 @@
 # Learn about State Machine
-When controlling robot the robot, it’s helpful to use the State Machine framework.  In this framework, every action is defined as a "state".  Actions of the robot are described as a series of states.
+When controlling the robot, it’s helpful to use the State Machine framework.  In this framework, every action is defined as a "state".  Actions of the robot are described as a series of states.
+
 Watch these videos for good background info as well as how it can be executed in code:
 
 [Part 1](https://youtu.be/Pu7PMN5NGkQ)
