@@ -1,6 +1,6 @@
 # Commands
 
-A **command** represents an action that the robot can perform.
+A **Command** represents an action that the robot can perform.
 - Commands are a powerful way to structure robot behaviour.
 - Commands can range from simple actions, like moving a motor for a set time, to complex sequences involving multiple subsystems.
 - Commands are an implementation of [State Machine](https://github.com/cybercat5436/Programming_Basics/blob/main/StateMachine.md) architecture 
