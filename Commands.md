@@ -1,4 +1,5 @@
 # Commands
+Prerequisite: [Subsystems Exercise](Subsystems.md)
 
 A **Command** represents an action that the robot can perform.
 - Commands are a powerful way to structure robot behaviour.
@@ -31,7 +32,7 @@ After you complete the following exercise, check out the refernece material at t
 
 
 ## Exercise: Create a Command Class to control the position of the Arm
-### Define a subsytem [ArmSubsystem](https://github.com/cybercat5436/Programming_Basics/edit/main/Subsystems.md)
+### Start with project from [Subsystem Exercise](Subsystems.md)
 1) Add a position instance variable to the subsystem(arm).
 <br><img width="500" alt="Arm Position" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/arm-pos.png"><br>   
 2) Add a member functions(setter and getter functions) to set and get the position of the arm.  
