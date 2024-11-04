@@ -34,3 +34,4 @@ Which methods map to these elements of a state machine?
 - Exit conditions?
 - Transitional actions?
 
+Reference: [Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html) 
