@@ -1,5 +1,5 @@
 # Subsystems
-Prerequisite: [Simulation](https://docs.google.com/presentation/d/1E6FoVX4uITeulpLSuKMccyF5yDlqt1qnPaPIwpjGqlQ)
+Prerequisite: [Simulation](HelloCybercat.md)
 
 Robot functions are broken into subsystems.  Each subsystem represents a distinct robot mechanism. 
 Subsystems vary based on the game objectives, but they typically include:
@@ -21,7 +21,7 @@ Create a subsysyem by following these steps:
 
 ## Exercise
 ### Create the Subsystem Class
-1) Open project you created in [Simulation section](https://docs.google.com/presentation/d/1E6FoVX4uITeulpLSuKMccyF5yDlqt1qnPaPIwpjGqlQ)
+1) Open project you created in [Simulation section](HelloCybercat.md)
 1) Right-click on subsystems directory and select "Create a new class/commnad"
 1) Select Subsystem from the menu and type in a name for the subsystem (e.g. "Arm") and press enter
 1) Add a print statement to the periodic method
