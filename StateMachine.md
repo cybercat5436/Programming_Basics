@@ -19,10 +19,20 @@ These actions continue until an event occurs.  In response to those events the r
 
 ## Apply the concepts
 
-Can you apply the concept of Interfaces to State Machines?  If you were to design an Interface, what methods would you include in the contract?
+Look at the methods included in a Command object. 
+- Go to your project from [Subsystems exercise](Subsystems.md). 
+- Navigate to Commands directory and right click on that directory
+- Select "New Command" from menu, give it a name a push enter
 
-Create the logic to invoke a state machine
-What are the state actions?
-What are the exit conditions?
-What are the transitional actions?
-What is the next state?
+Notice a Command has the following methods:
+- initialize
+- execute
+- isFinished
+- end
+
+
+Which methods map to these elements of a state machine?
+- State actions?
+- Exit conditions?
+- Transitional actions?
+
