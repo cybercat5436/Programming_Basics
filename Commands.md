@@ -19,17 +19,6 @@ A **command** represents an action that the robot can perform.
 <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/scheduler.png"><br>
 
 ## Types of Commands
-* Instant Command
-* Wait command
-* SwerveControllerCommand
-* PIDCommand  
-
-## Command composition
-Ability to chain multiple commnads to accomplish complex tasks, allowing modularity and reusabality of the code.
-* Sequential commands
-* Parallel commands  
-
-## Types of Commands
 WPILib contains various types of Commands to achieve specific functionality. There are also helpful shortcuts available for implementing common tasks.  Heres a shortlist of Command types that are used frequently in Cyber Cat code base:
 * Instant Command
 * Wait command
