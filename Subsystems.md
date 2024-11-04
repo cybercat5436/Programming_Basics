@@ -1,5 +1,6 @@
 # Subsystems
-Robot functions are broken into subsystems.  Subsystems vary based on the game objectives, but they typically include:
+Robot functions are broken into subsystems.  Each subsystem represents a distinct robot mechanism. 
+Subsystems vary based on the game objectives, but they typically include:
 - Chassis
 - Intake
 - Climber
