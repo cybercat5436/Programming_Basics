@@ -5,16 +5,18 @@ A **command** represents an action that the robot can perform.
 - Commands can range from simple actions, like moving a motor for a set time, to complex sequences involving multiple subsystems.
 - Commands are an implementation of [State Machine](https://github.com/cybercat5436/Programming_Basics/blob/main/StateMachine.md) architecture 
 ## Methods of a Command
+A command is a special class in WPILib which must contain the following methods:
 * initialize: called when first scheduled, This is where you can set up any necessary parameters or states.
 * execute: runs repeatedly, main logic of the command occurs, such as controlling motors or sensors.
 * isFinished: exit conditions check, to check whether the command has completed the task, if 'true' command is removed from the scheduler.
 * end: Typically called when the command is finished, clean up actions.
 
 ## Command Scheduler
+The Command Scheduler is a core utility in WPILib which orchestrates activity amongst subsystems.
 * Manages the execution of the commands, life cycle of the commands(initialize, execute, end).
-* Resource allocation - Only allows 1 running command per subsystem
+* Allocates only 1 running command per subsystem. Commands must register subsystems to utilize this functionality. 
 * Ensures safe execution of the subsytems - by default, commands can't execute unless robot is active
-* Commands prioritization - Commands can be **interrupted** if a higher priority command is scheduled
+* Prioritizes Command execution - Commands can be **interrupted** if a higher priority command is scheduled
 
 <br> <img width="500" alt="Instantiation" src="https://github.com/cybercat5436/Programming_Basics/blob/main/assets/scheduler.png"><br>
 
