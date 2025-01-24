@@ -26,7 +26,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. Functional Interfaces
     1. Stream
 1. WPILib
-    1. [Simulation](https://cybercat5436.github.io/Programming_Basics/HelloCybercats)
+    1. [Simulation](https://cybercat5436.github.io/Programming_Basics/HelloCybercat)
     1. [Dashboards & Network Tables](https://docs.google.com/document/d/1RQRigpYUv2hz-S0XogmwiDdY_5hcvlr2qt4yBovZcQ4/edit?usp=drive_link)
     1. [Subsystems](https://cybercat5436.github.io/Programming_Basics/Subsystems)
     1. [Commands](https://cybercat5436.github.io/Programming_Basics/Commands)
