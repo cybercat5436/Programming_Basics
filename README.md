@@ -26,10 +26,10 @@ Returning students should expand their knowledge with advanced tutorials in eith
     1. Functional Interfaces
     1. Stream
 1. WPILib
-    1. [Simulation](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat)
+    1. [Simulation](https://github.com/cybercat5436/Programming_Basics/blob/main/HelloCybercat.md)
     1. [Dashboards & Network Tables](https://docs.google.com/document/d/1RQRigpYUv2hz-S0XogmwiDdY_5hcvlr2qt4yBovZcQ4/edit?usp=drive_link)
-    1. [Subsystems](https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems)
-    1. [Commands](https://github.com/cybercat5436/Programming_Basics/blob/main/Commands)
+    1. [Subsystems](https://github.com/cybercat5436/Programming_Basics/blob/main/Subsystems.md)
+    1. [Commands](https://github.com/cybercat5436/Programming_Basics/blob/main/Commands.md)
        - Scheduler
     1. Autonomous
        - Path Planner
@@ -51,7 +51,7 @@ Returning students should expand their knowledge with advanced tutorials in eith
 1. Control systems
     1. [PID Controllers](https://docs.google.com/document/d/1q2Fe3-mitXjtr-owq9-SB_0mqVCDGcikXRXlNKKP700/edit?usp=drive_link)
        - [Example](https://docs.google.com/presentation/d/1DCwFPjsVy91znihLSHr5BNxie84MPP8H/edit?usp=drive_link&ouid=103075082841613250737&rtpof=true&sd=true)
-    1. [State Machine](https://github.com/cybercat5436/Programming_Basics/blob/main/StateMachine)
+    1. [State Machine](https://github.com/cybercat5436/Programming_Basics/blob/main/StateMachine.md)
     1. Vision
     1. Power Management
 
